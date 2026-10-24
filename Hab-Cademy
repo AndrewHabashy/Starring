@@ -1,1 +1,45 @@
-
+{
+    "2026": {
+        "year": 2026,
+        "categories": {
+            "Best Picture": {
+                "categoryName": "Best Picture",
+                "maxSlots": 10,
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "You Can See Everything",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    },
+                    {
+                        "slotIndex": 5
+                    },
+                    {
+                        "slotIndex": 6
+                    },
+                    {
+                        "slotIndex": 7
+                    },
+                    {
+                        "slotIndex": 8
+                    },
+                    {
+                        "slotIndex": 9
+                    }
+                ]
+            }
+        }
+    }
+}
