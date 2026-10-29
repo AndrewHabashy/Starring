@@ -106,7 +106,9 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Anne Hathaway"
+                        "nameOrTitle": "Anne Hathaway",
+                        "filmTitle": "Les Misérables",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1
