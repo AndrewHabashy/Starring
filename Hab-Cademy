@@ -1576,6 +1576,34 @@
             }
         }
     },
+    "1977": {
+        "year": 1977,
+        "categories": {
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Rescuers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Many Adventures of Winnie the Pooh"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            }
+        }
+    },
     "2009": {
         "year": 2009,
         "categories": {
