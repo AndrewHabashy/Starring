@@ -4845,6 +4845,73 @@
                         "filmTitle": "Jerry Maguire"
                     }
                 ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Jan de Bont",
+                        "filmTitle": "Twister",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Twister",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Twister",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
