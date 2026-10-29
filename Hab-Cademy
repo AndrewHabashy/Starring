@@ -5261,6 +5261,29 @@
                         "nameOrTitle": "Alfre Woodard (Crooklyn)"
                     }
                 ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Jan de Bont",
+                        "filmTitle": "Speed",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
