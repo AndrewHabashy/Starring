@@ -2598,7 +2598,8 @@
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Flags of Our Fathers"
                     },
                     {
                         "slotIndex": 2
