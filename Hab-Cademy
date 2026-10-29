@@ -5266,7 +5266,7 @@
                     },
                     {
                         "slotIndex": 9,
-                        "nameOrTitle": "28 Years Later: The Bone Temple"
+                        "nameOrTitle": "The Furious"
                     }
                 ]
             },
@@ -5507,6 +5507,10 @@
                     {
                         "slotIndex": 3,
                         "nameOrTitle": "Alpha"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Fjord"
                     }
                 ]
             },
@@ -5814,6 +5818,28 @@
                     {
                         "slotIndex": 4,
                         "nameOrTitle": "The Odyssey"
+                    }
+                ]
+            },
+            "Best Story": {
+                "categoryName": "Best Story",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Fjord",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             }
