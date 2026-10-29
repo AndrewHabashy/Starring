@@ -2907,6 +2907,50 @@
                         "nameOrTitle": "Mean Girls"
                     }
                 ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Million Dollar Baby",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Million Dollar Baby",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
