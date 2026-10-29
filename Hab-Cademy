@@ -3089,6 +3089,51 @@
                         "nameOrTitle": "Ken Watanabe (The Last Samurai)"
                     }
                 ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Clint Eastwood",
+                        "filmTitle": "Mystic River",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mystic River",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
