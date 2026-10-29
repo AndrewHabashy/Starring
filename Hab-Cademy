@@ -2237,6 +2237,28 @@
                         "nameOrTitle": "Michael Clayton"
                     }
                 ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "4 Months, 3 Weeks and 2 Days",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
