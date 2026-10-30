@@ -385,6 +385,36 @@
                         "nameOrTitle": "Christian Bale (The Big Short)"
                     }
                 ]
+            },
+            "Best Supporting Actress": {
+                "categoryName": "Best Supporting Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Charlize Theron",
+                        "filmTitle": "Mad Max: Fury Road"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Rachel McAdams",
+                        "filmTitle": "Spotlight"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Alicia Vikander",
+                        "filmTitle": "Ex Machina"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Tessa Thompson",
+                        "filmTitle": "Creed"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Rooney Mara",
+                        "filmTitle": "Carol"
+                    }
+                ]
             }
         }
     },
