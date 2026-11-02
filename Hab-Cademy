@@ -8077,6 +8077,29 @@
                         "isWinner": true
                     }
                 ]
+            },
+            "Best Actor": {
+                "categoryName": "Best Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Kevin Costner",
+                        "filmTitle": "Bull Durham",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
