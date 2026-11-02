@@ -4271,7 +4271,8 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Big "
+                        "nameOrTitle": "Big Daddy",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1
