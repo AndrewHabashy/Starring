@@ -9044,6 +9044,37 @@
                         "nameOrTitle": "Rachel McAdams (Game Night)"
                     }
                 ]
+            },
+            "Best Supporting Actor": {
+                "categoryName": "Best Supporting Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Adam Driver",
+                        "filmTitle": "BlacKkKlansman",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Mahershala Ali",
+                        "filmTitle": "Green Book"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Sam Elliot",
+                        "filmTitle": "A Star Is Born"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Michael B. Jordan",
+                        "filmTitle": "Black Panther"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Jesse Plemons",
+                        "filmTitle": "Game Night"
+                    }
+                ]
             }
         }
     },
