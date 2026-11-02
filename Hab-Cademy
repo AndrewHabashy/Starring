@@ -1617,6 +1617,28 @@
                         "nameOrTitle": "James Franco (127 Hours)"
                     }
                 ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Grown Ups",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
@@ -4928,6 +4950,27 @@
                         "slotIndex": 0,
                         "nameOrTitle": "Twister",
                         "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Hap"
                     },
                     {
                         "slotIndex": 1
