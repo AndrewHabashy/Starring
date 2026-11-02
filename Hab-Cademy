@@ -1389,7 +1389,8 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Just Go With "
+                        "nameOrTitle": "Just Go With It",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1
@@ -4262,6 +4263,27 @@
                     {
                         "slotIndex": 1,
                         "nameOrTitle": "Austin Powers: The Spy Who Shagged Me"
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Big "
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             }
