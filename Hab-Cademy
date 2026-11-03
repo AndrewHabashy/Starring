@@ -7935,6 +7935,27 @@
                         "nameOrTitle": "Kenneth Branagh (Henry V)"
                     }
                 ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "G"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
