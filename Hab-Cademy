@@ -392,7 +392,8 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "Charlize Theron",
-                        "filmTitle": "Mad Max: Fury Road"
+                        "filmTitle": "Mad Max: Fury Road",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
