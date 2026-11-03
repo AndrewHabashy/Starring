@@ -3225,6 +3225,28 @@
                         "slotIndex": 4
                     }
                 ]
+            },
+            "Best Documentary Feature": {
+                "categoryName": "Best Documentary Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Super Size Me",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
