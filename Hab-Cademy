@@ -7941,7 +7941,8 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "G"
+                        "nameOrTitle": "Ghostbusters II",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1
