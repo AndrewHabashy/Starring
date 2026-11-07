@@ -5599,15 +5599,15 @@
                     },
                     {
                         "slotIndex": 7,
-                        "nameOrTitle": "Send Help"
-                    },
-                    {
-                        "slotIndex": 8,
                         "nameOrTitle": "Tuner"
                     },
                     {
-                        "slotIndex": 9,
+                        "slotIndex": 8,
                         "nameOrTitle": "The Furious"
+                    },
+                    {
+                        "slotIndex": 9,
+                        "nameOrTitle": "Wild Horse Nine"
                     }
                 ]
             },
@@ -5891,7 +5891,7 @@
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "28 Years Later: The Bone Temple"
+                        "nameOrTitle": "Godzilla Minus Zero"
                     },
                     {
                         "slotIndex": 2,
@@ -5964,7 +5964,7 @@
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Send Help"
+                        "nameOrTitle": "Godzilla Minus Zero"
                     },
                     {
                         "slotIndex": 2,
@@ -6089,12 +6089,12 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Project Hail Mary",
+                        "nameOrTitle": "Godzilla Minus Zero",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Coyote vs. ACME"
+                        "nameOrTitle": "Project Hail Mary"
                     },
                     {
                         "slotIndex": 2,
