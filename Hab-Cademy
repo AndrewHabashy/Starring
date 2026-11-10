@@ -111,16 +111,138 @@
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Sally Field",
+                        "filmTitle": "Lincoln"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Amy Adams",
+                        "filmTitle": "The Master"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Amanda Seyfried",
+                        "filmTitle": "Les Misérables"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Anne Hathaway",
+                        "filmTitle": "The Dark Knight Rises"
+                    }
+                ]
+            },
+            "Best Supporting Actor": {
+                "categoryName": "Best Supporting Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Philip Seymour Hoffman",
+                        "filmTitle": "The Master",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Christoph Waltz",
+                        "filmTitle": "Django Unchained"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Alan Arkin",
+                        "filmTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Robert De Niro",
+                        "filmTitle": "Silver Linings Playbook"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Tommy Lee Jones",
+                        "filmTitle": "Lincoln"
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Quentin Tarantino",
+                        "filmTitle": "Django Unchained",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Steven Spielberg",
+                        "filmTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Joss Whedon",
+                        "filmTitle": "The Avengers"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Ben Affleck",
+                        "filmTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Paul Thomas Anderson",
+                        "filmTitle": "The Master"
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Django Unchained",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Flight"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Zero Dark Thirty"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Moonrise Kingdom"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ted"
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Argo",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Silver Linings Playbook"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Avengers"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Skyfall"
                     }
                 ]
             }
