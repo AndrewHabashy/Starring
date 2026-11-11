@@ -4074,6 +4074,260 @@
                         "isWinner": true
                     }
                 ]
+            },
+            "Best Picture": {
+                "categoryName": "Best Picture",
+                "maxSlots": 10,
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "A Touch of Zen"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Santa Claus Is Comin' to Town"
+                    },
+                    {
+                        "slotIndex": 5,
+                        "nameOrTitle": "Compañeros"
+                    },
+                    {
+                        "slotIndex": 6,
+                        "nameOrTitle": "Donkey Skin"
+                    },
+                    {
+                        "slotIndex": 7,
+                        "nameOrTitle": "Investigation of a Citizen Above Suspicion"
+                    },
+                    {
+                        "slotIndex": 8,
+                        "nameOrTitle": "Little Big Man"
+                    },
+                    {
+                        "slotIndex": 9,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    }
+                ]
+            },
+            "Best Actor": {
+                "categoryName": "Best Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Ezzat Al Alaily",
+                        "filmTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Mahmoud El Meligy",
+                        "filmTitle": "The Land"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "George C. Scott",
+                        "filmTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Ahmed Marei",
+                        "filmTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Dustin Hoffman",
+                        "filmTitle": "Little Big Man"
+                    }
+                ]
+            },
+            "Best Actress": {
+                "categoryName": "Best Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Nagwa Ibrahim",
+                        "filmTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Kim Hunter",
+                        "filmTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Hsu Feng",
+                        "filmTitle": "A Touch of Zen"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Catherine Deneuve",
+                        "filmTitle": "Donkey Skin"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Faye Dunaway",
+                        "filmTitle": "Little Big Man"
+                    }
+                ]
+            },
+            "Best Supporting Actor": {
+                "categoryName": "Best Supporting Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Hamdy Ahmad",
+                        "filmTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Chief Dan George",
+                        "filmTitle": "Little Big Man"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Charlton Heston",
+                        "filmTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Ahmed Hegazi",
+                        "filmTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Alec Guinness",
+                        "filmTitle": "Scrooge"
+                    }
+                ]
+            },
+            "Best Supporting Actress": {
+                "categoryName": "Best Supporting Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Nadia Lutfi",
+                        "filmTitle": "The Night of Counting the Years",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Sally Kellerman",
+                        "filmTitle": "M*A*S*H"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Linda Harrison",
+                        "filmTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Delphine Seyrig",
+                        "filmTitle": "Donkey Skin"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Stefania Sandrelli",
+                        "filmTitle": "The Comformist"
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Youssef Chahine",
+                        "filmTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Shadi Abdel Salam",
+                        "filmTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Franklin J. Schaffner",
+                        "filmTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "King Hu",
+                        "filmTitle": "A Touch of Zen"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Conformist",
+                        "filmTitle": "Bernardo Bertolucci"
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "M*A*S*H",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Compañeros"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Investigation of a Citizen Above Suspicion"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "This Transient Life"
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "A Touch of Zen"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Donkey Skin"
+                    }
+                ]
             }
         }
     },
