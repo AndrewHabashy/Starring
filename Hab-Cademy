@@ -432,6 +432,214 @@
                         "artistName": "Owl City"
                     }
                 ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Skyfall",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Zero Dark Thirty"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Avengers"
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Lincoln",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Avengers"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Hobbit: An Unexpected Journey"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Anna Karenina"
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Django Unchained"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Skyfall"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Hunger Games"
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Anna Karenina"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Amazing Spider-Man"
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Silver Linings Playbook"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Master"
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Hobbit: An Unexpected Journey"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Prometheus"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Amazing Spider-Man"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ted"
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Hobbit: An Unexpected Journey",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Anna Karenina"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Men in Black 3"
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Hunger Games",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Django Unchained"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "21 Jump Street"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Amazing Spider-Man"
+                    }
+                ]
             }
         }
     },
