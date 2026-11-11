@@ -301,8 +301,8 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Like Someone in Love",
-                        "filmTitle": "Japan",
+                        "nameOrTitle": "Armour",
+                        "filmTitle": "Austria",
                         "isWinner": true
                     },
                     {
@@ -317,13 +317,57 @@
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Evangelion: 3.0 You Can (Not) Redo",
+                        "nameOrTitle": "Like Someone in Love",
                         "filmTitle": "Japan"
                     },
                     {
                         "slotIndex": 4,
                         "nameOrTitle": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
                         "filmTitle": "Japan"
+                    }
+                ]
+            },
+            "Best Documentary Short": {
+                "categoryName": "Best Documentary Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Last Reef: Cities Beneath the Sea",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Documentary Feature": {
+                "categoryName": "Best Documentary Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Five Broken Cameras",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             }
