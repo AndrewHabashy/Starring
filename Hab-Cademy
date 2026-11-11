@@ -6048,17 +6048,20 @@
                     {
                         "slotIndex": 1,
                         "nameOrTitle": "Runaway",
-                        "filmTitle": "The Devil Wears Prada 2"
+                        "filmTitle": "The Devil Wears Prada 2",
+                        "artistName": "Lady Gaga"
                     },
                     {
                         "slotIndex": 2,
                         "nameOrTitle": "I Knew It, I Knew You",
-                        "filmTitle": "Toy Story 5"
+                        "filmTitle": "Toy Story 5",
+                        "artistName": "Taylor Swift"
                     },
                     {
                         "slotIndex": 3,
                         "nameOrTitle": "How to Write a Song (Without You)",
-                        "filmTitle": "Power Ballad"
+                        "filmTitle": "Power Ballad",
+                        "artistName": "Nick Jonas"
                     },
                     {
                         "slotIndex": 4,
