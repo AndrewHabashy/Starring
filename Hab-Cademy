@@ -370,6 +370,68 @@
                         "slotIndex": 4
                     }
                 ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Anna Karenina"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Skyfall"
+                    }
+                ]
+            },
+            "Best Original Song": {
+                "categoryName": "Best Original Song",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Skyfall",
+                        "filmTitle": "Skyfall",
+                        "artistName": "Adele",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Everybody Needs a Best Friend",
+                        "filmTitle": "Ted",
+                        "artistName": "Norah Jones"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Suddenly",
+                        "filmTitle": "Les Misérables",
+                        "artistName": "Hugh Jackman"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "100 Black Coffins",
+                        "filmTitle": "Django Unchained",
+                        "artistName": "Rick Ross"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "When Can I See You Again?",
+                        "filmTitle": "Wreck-It Ralph",
+                        "artistName": "Owl City"
+                    }
+                ]
             }
         }
     },
@@ -1395,6 +1457,51 @@
                     {
                         "slotIndex": 4,
                         "nameOrTitle": "Steve McQueen (12 Years a Slave)"
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Ernest & Celestine",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Ernest & Celestine",
+                        "filmTitle": "France",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             }
