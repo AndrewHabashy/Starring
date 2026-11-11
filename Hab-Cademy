@@ -3536,6 +3536,29 @@
                         "nameOrTitle": "Snoopy, Come Home"
                     }
                 ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Dodes'ka-den",
+                        "filmTitle": "Japan",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
@@ -4326,6 +4349,352 @@
                     {
                         "slotIndex": 4,
                         "nameOrTitle": "Donkey Skin"
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Santa Claus Is Comin' to Town",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Aristocats"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "filmTitle": "Egypt",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years",
+                        "filmTitle": "Egypt"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "A Touch of Zen",
+                        "filmTitle": "Taiwanese"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Compañeros",
+                        "filmTitle": "Italy"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Donkey Skin",
+                        "filmTitle": "France"
+                    }
+                ]
+            },
+            "Best Animated Short": {
+                "categoryName": "Best Animated Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Deep Water",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Santa Calus Is Comin' to Town"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Aristocats"
+                    }
+                ]
+            },
+            "Best Original Song": {
+                "categoryName": "Best Original Song",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Thank You Very Much",
+                        "filmTitle": "Scrooge",
+                        "artistName": "Leslie Bricusse"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Santa Claus Is Comin' to Town",
+                        "filmTitle": "Santa Claus Is Comin' to Town",
+                        "artistName": "Fred Astaire",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Aristocats",
+                        "filmTitle": "The Aristocats",
+                        "artistName": "Maurice Chevalier"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Put One Foot in Front of the Other",
+                        "filmTitle": "Santa Claus Is Comin' to Town",
+                        "artistName": "Mickey Rooney"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Suicide Is Painless",
+                        "filmTitle": "M*A*S*H",
+                        "artistName": "Johnny Mandel"
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "A Touch of Zen"
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "A Touch of Zen"
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "A Touch of Zen"
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Beneath the Planet of the Apes",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Scrooge"
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "M*A*S*H"
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Beneath the Planet of the Apes",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "A Touch of Zen"
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Land",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Night of Counting the Years"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Beneath the Planet of the Apes"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "M*A*S*H"
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Patton"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Beneath the Planet of the Apes",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "A Touch of Zen"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "M*A*S*H"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Crimes of the Future"
                     }
                 ]
             }
