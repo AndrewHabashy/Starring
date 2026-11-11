@@ -7738,6 +7738,58 @@
                         "nameOrTitle": "Zac Efron (The Iron Claw)"
                     }
                 ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Spider-Man: Across the Spider-Verse",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Robot Dreams"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Boy and the Heron"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Mars Express"
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Oppenheimer",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Killers of the Flower Moon"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Poor Things"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Blue Giant"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "American Fiction"
+                    }
+                ]
             }
         }
     },
