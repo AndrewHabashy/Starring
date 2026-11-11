@@ -245,6 +245,87 @@
                         "nameOrTitle": "Skyfall"
                     }
                 ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "It's Such A Beautiful Day",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Evangelion: 3.0 You Can (Not) Redo"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Hotel Transylvania"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Brave"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Wolf Children"
+                    }
+                ]
+            },
+            "Best Live Action Short": {
+                "categoryName": "Best Live Action Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Marvel One-Shot: Item 47",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "When We Are Chased by Bad Luck"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Malaria"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Like Someone in Love",
+                        "filmTitle": "Japan",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Ek Tha Tiger",
+                        "filmTitle": "India"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Wolf Children",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Evangelion: 3.0 You Can (Not) Redo",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
+                        "filmTitle": "Japan"
+                    }
+                ]
             }
         }
     },
