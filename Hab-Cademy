@@ -6044,7 +6044,9 @@
                         "filmTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Mark Wahlberg",
+                        "filmTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 3
@@ -6074,10 +6076,14 @@
                         "filmTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Burt Reynolds",
+                        "filmTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Philip Seymour Hoffman",
+                        "filmTitle": "Boogie Nights"
                     }
                 ]
             },
@@ -6085,7 +6091,10 @@
                 "categoryName": "Best Supporting Actress",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Julianne Moore",
+                        "filmTitle": "Boogie Nights",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6120,7 +6129,9 @@
                         "filmTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Paul Thomas Anderson",
+                        "filmTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 4
@@ -6140,7 +6151,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 3
@@ -6165,7 +6177,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 4
@@ -6187,7 +6200,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 4
@@ -6207,7 +6221,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 3
@@ -6254,7 +6269,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 4
@@ -6294,7 +6310,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 3
@@ -6313,6 +6330,48 @@
                     {
                         "slotIndex": 1,
                         "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Boogie Nights"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Boogie Nights"
                     },
                     {
                         "slotIndex": 2
