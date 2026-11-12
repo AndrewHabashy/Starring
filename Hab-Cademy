@@ -5795,6 +5795,49 @@
                         "slotIndex": 4
                     }
                 ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Perfect Blue"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Perfect Blue",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
@@ -6054,7 +6097,9 @@
                         "filmTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Leonardo DiCaprio",
+                        "filmTitle": "Titanic"
                     }
                 ]
             },
@@ -6120,7 +6165,10 @@
                 "categoryName": "Best Director",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "James Cameron",
+                        "filmTitle": "Titanic",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6161,7 +6209,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Titanic"
                     },
                     {
                         "slotIndex": 4
@@ -6172,7 +6221,9 @@
                 "categoryName": "Best Original Score",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Titanic",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6196,7 +6247,8 @@
                 "categoryName": "Best Film Editing",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Titanic"
                     },
                     {
                         "slotIndex": 1,
@@ -6237,7 +6289,8 @@
                         "nameOrTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Titanic"
                     }
                 ]
             },
@@ -6245,7 +6298,10 @@
                 "categoryName": "Best Actress",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Kate Winslet",
+                        "filmTitle": "Titanic",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6271,7 +6327,9 @@
                 "categoryName": "Best Sound",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Titanic",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6295,7 +6353,9 @@
                 "categoryName": "Best Production Design",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Titanic",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6318,7 +6378,9 @@
                 "categoryName": "Best Cinematography",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Titanic",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6341,7 +6403,9 @@
                 "categoryName": "Best Visual Effects",
                 "nominees": [
                     {
-                        "slotIndex": 0
+                        "slotIndex": 0,
+                        "nameOrTitle": "Titanic",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -6369,7 +6433,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Titanic"
                     },
                     {
                         "slotIndex": 3
@@ -6390,7 +6455,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Titanic"
                     },
                     {
                         "slotIndex": 3
@@ -6409,7 +6475,8 @@
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Princess Mononoke"
                     },
                     {
                         "slotIndex": 2
@@ -6431,6 +6498,59 @@
                     {
                         "slotIndex": 1,
                         "nameOrTitle": "The Ice Storm"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Song": {
+                "categoryName": "Best Original Song",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "My Heart Will Go On",
+                        "filmTitle": "Titanic",
+                        "artistName": "Celine Dion",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Go The Distance",
+                        "filmTitle": "Hercules",
+                        "artistName": "Michael Bolton"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Miss Misery",
+                        "filmTitle": "Good Will Hunting",
+                        "artistName": "Elliot Smith"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Princess Mononoke",
+                        "filmTitle": "Japan",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
                     },
                     {
                         "slotIndex": 2
