@@ -6049,7 +6049,9 @@
                         "filmTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Kevin Kline",
+                        "filmTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 4
@@ -6077,8 +6079,8 @@
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Burt Reynolds",
-                        "filmTitle": "Boogie Nights"
+                        "nameOrTitle": "Elijah Wood",
+                        "filmTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 4,
@@ -6102,7 +6104,9 @@
                         "filmTitle": "Good Will Hunting"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Christina Ricci",
+                        "filmTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 3
@@ -6134,7 +6138,9 @@
                         "filmTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ang Lee",
+                        "filmTitle": "The Ice Storm"
                     }
                 ]
             },
@@ -6181,7 +6187,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Ice Storm"
                     }
                 ]
             },
@@ -6204,7 +6211,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Ice Storm"
                     }
                 ]
             },
@@ -6225,7 +6233,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 4
@@ -6244,10 +6253,14 @@
                         "filmTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Joan Allen",
+                        "filmTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Sigourney Weaver",
+                        "filmTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 4
@@ -6273,7 +6286,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Ice Storm"
                     }
                 ]
             },
@@ -6292,7 +6306,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 4
@@ -6314,7 +6329,8 @@
                         "nameOrTitle": "Boogie Nights"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 4
@@ -6372,6 +6388,49 @@
                     {
                         "slotIndex": 1,
                         "nameOrTitle": "Boogie Nights"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Hercules",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Ice Storm"
                     },
                     {
                         "slotIndex": 2
