@@ -6028,6 +6028,302 @@
                         "nameOrTitle": "Taste of Cherry"
                     }
                 ]
+            },
+            "Best Actor": {
+                "categoryName": "Best Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Matt Damon",
+                        "filmTitle": "Good Will Hunting",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Ethan Hawke",
+                        "filmTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Supporting Actor": {
+                "categoryName": "Best Supporting Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Robin Williams",
+                        "filmTitle": "Good Will Hunting",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Stellan Skarsgård",
+                        "filmTitle": "Good Will Hunting"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Jude Law",
+                        "filmTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Supporting Actress": {
+                "categoryName": "Best Supporting Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Minnie Driver",
+                        "filmTitle": "Good Will Hunting"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Gus Van Sant",
+                        "filmTitle": "Good Will Hunting"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Andrew Niccol",
+                        "filmTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Good Will Hunting",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Good Will Hunting"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Good Will Hunting"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Good Will Hunting",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Actress": {
+                "categoryName": "Best Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Uma Thurman",
+                        "filmTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Good Will Hunting"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Good Will Hunting"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Gattaca"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
