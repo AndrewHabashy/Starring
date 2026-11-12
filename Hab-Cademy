@@ -6060,7 +6060,7 @@
                     },
                     {
                         "slotIndex": 7,
-                        "nameOrTitle": "Life Is Beautiful"
+                        "nameOrTitle": "The Game"
                     },
                     {
                         "slotIndex": 8,
@@ -6093,8 +6093,8 @@
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Kevin Kline",
-                        "filmTitle": "The Ice Storm"
+                        "nameOrTitle": "Homayoun Ershadi",
+                        "filmTitle": "Taste of Cherry"
                     },
                     {
                         "slotIndex": 4,
@@ -6154,7 +6154,9 @@
                         "filmTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Courteney Cox",
+                        "filmTitle": "Scream 2"
                     },
                     {
                         "slotIndex": 4
@@ -6187,8 +6189,8 @@
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Ang Lee",
-                        "filmTitle": "The Ice Storm"
+                        "nameOrTitle": "Abbas Kiarostami",
+                        "filmTitle": "Taste of Cherry"
                     }
                 ]
             },
@@ -6213,7 +6215,8 @@
                         "nameOrTitle": "Titanic"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Taste of Cherry"
                     }
                 ]
             },
@@ -6260,7 +6263,8 @@
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Boogie Nights"
+                        "nameOrTitle": "Boogie Nights",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 4,
@@ -6319,7 +6323,9 @@
                         "filmTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Neve Campbell",
+                        "filmTitle": "Scream 2"
                     }
                 ]
             },
@@ -6370,7 +6376,8 @@
                         "nameOrTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Scream 2"
                     }
                 ]
             },
@@ -6395,7 +6402,8 @@
                         "nameOrTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Taste of Cherry"
                     }
                 ]
             },
@@ -6412,7 +6420,8 @@
                         "nameOrTitle": "Gattaca"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Scream 2"
                     },
                     {
                         "slotIndex": 3
@@ -6437,7 +6446,8 @@
                         "nameOrTitle": "Titanic"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Scream 2"
                     },
                     {
                         "slotIndex": 4
@@ -6459,7 +6469,8 @@
                         "nameOrTitle": "Titanic"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Scream 2"
                     },
                     {
                         "slotIndex": 4
@@ -6500,7 +6511,8 @@
                         "nameOrTitle": "The Ice Storm"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Scream 2"
                     },
                     {
                         "slotIndex": 3
@@ -6545,12 +6557,14 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Princess Mononoke",
-                        "filmTitle": "Japan",
+                        "nameOrTitle": "Taste of Cherry",
+                        "filmTitle": "Iran",
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Princess Mononoke",
+                        "filmTitle": "Japan"
                     },
                     {
                         "slotIndex": 2
