@@ -7349,24 +7349,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Robert Pattinson (Primetime)",
+                        "nameOrTitle": "John Malkovich",
+                        "filmTitle": "Wild Horse Nine",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Ralph Fiennes (28 Years Later: The Bone Temple)"
+                        "nameOrTitle": "Robert Pattinson",
+                        "filmTitle": "Primetime"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Matt Damon (The Odyssey)"
+                        "nameOrTitle": "Matt Damon",
+                        "filmTitle": "The Odyssey"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Seth Rogen (The Invite)"
+                        "nameOrTitle": "Seth Rogen",
+                        "filmTitle": "The Invite"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Ryan Gosling (Project Hail Mary)"
+                        "nameOrTitle": "Ryan Gosling",
+                        "filmTitle": "Project Hail Mary"
                     }
                 ]
             },
