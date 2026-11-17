@@ -10448,7 +10448,7 @@
                     },
                     {
                         "slotIndex": 8,
-                        "nameOrTitle": "Once Upon a Time...in Hollywood"
+                        "nameOrTitle": "Once Upon a Time... in Hollywood"
                     },
                     {
                         "slotIndex": 9,
@@ -10462,7 +10462,7 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "Leonardo DiCaprio",
-                        "filmTitle": "Once Upon A Time…In Hollywood",
+                        "filmTitle": "Once Upon a Time... in Hollywood",
                         "isWinner": true
                     },
                     {
@@ -10524,7 +10524,7 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "Brad Pitt",
-                        "filmTitle": "Once Upon A Time…In Hollywood",
+                        "filmTitle": "Once Upon a Time... in Hollywood",
                         "isWinner": true
                     },
                     {
@@ -10580,24 +10580,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Bong Joon Ho (Parasite)",
+                        "nameOrTitle": "Bong Joon Ho",
+                        "filmTitle": "Parasite",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Martin Scorsese (The Irishman)"
+                        "nameOrTitle": "Martin Scorsese",
+                        "filmTitle": "The Irishman"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Todd Phillips (Joker)"
+                        "nameOrTitle": "Todd Phillips",
+                        "filmTitle": "Joker"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Sam Mendes (1917)"
+                        "nameOrTitle": "Sam Mendes",
+                        "filmTitle": "1917"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Quentin Tarantino (Once upon a Time...in Hollywood)"
+                        "nameOrTitle": "Quentin Tarantino",
+                        "filmTitle": "Once Upon a Time... in Hollywood"
                     }
                 ]
             },
@@ -10623,7 +10628,7 @@
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Once upon a Time...in Hollywood"
+                        "nameOrTitle": "Once Upon a Time... in Hollywood"
                     }
                 ]
             },
@@ -10659,7 +10664,28 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "Parasite",
+                        "filmTitle": "South Korea",
                         "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Portrait of a Lady on Fire",
+                        "filmTitle": "France"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Ne Zha",
+                        "filmTitle": "China"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Wandering Earth",
+                        "filmTitle": "China"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "122",
+                        "filmTitle": "Egypt"
                     }
                 ]
             },
@@ -10668,7 +10694,7 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Once Upon A Time…In Hollywood",
+                        "nameOrTitle": "Once Upon a Time... in Hollywood",
                         "isWinner": true
                     },
                     {
@@ -10694,7 +10720,84 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Once Upon A Time…In Hollywood",
+                        "nameOrTitle": "Once Upon a Time... in Hollywood"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Uncut Gems"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Parasite"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Midsommar"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Knives Out",
+                        "isWinner": true
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Toy Story 4"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Frozen II"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Klaus",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "How to Train Your Dragon: The Hidden World"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ne Zha"
+                    }
+                ]
+            },
+            "Best Live Action Short": {
+                "categoryName": "Best Live Action Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Peter's To-Do List",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Blizzard"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Soul of the Sea"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Us"
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Animated Short": {
+                "categoryName": "Best Animated Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Hair Love",
                         "isWinner": true
                     },
                     {
@@ -10708,6 +10811,250 @@
                     },
                     {
                         "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Documentary Feature": {
+                "categoryName": "Best Documentary Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "For Sama",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Pooh: The Derrick Rose Story"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Deion's Double Play"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Jump Shot: The Kenny Sailors Story"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Rodman: For Better or Worse"
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Avengers: Endgame",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Little Women"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Marriage Story"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "1917"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Uncut Gems"
+                    }
+                ]
+            },
+            "Best Original Song": {
+                "categoryName": "Best Original Song",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Into the Unknown",
+                        "filmTitle": "Frozen II",
+                        "artistName": "Idina Menzel",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "I Can't Let You Throw Yourself Away",
+                        "filmTitle": "Toy Story 4",
+                        "artistName": "Randy Newman"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Saturday",
+                        "filmTitle": "Guava Island",
+                        "artistName": "Childish Gambino"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Time",
+                        "filmTitle": "Guava Island",
+                        "artistName": "Childish Gambino"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Spirit",
+                        "filmTitle": "The Lion King",
+                        "artistName": "Beyoncé"
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Ford vs. Ferrari"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Avengers: Endgame"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "1917"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Once Upon a Time... in Hollywood"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Sound of Metal",
+                        "isWinner": true
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "1917",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Avengers: Endgame"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Lighthouse"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Once Upon a Time... in Hollywood"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Midsommar"
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Little Women",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Avengers: Endgame"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Once Upon a Time... in Hollywood"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Jojo Rabbit"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Knives Out"
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Avengers: Endgame",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Ford vs. Ferrari"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Irishman"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Jojo Rabbit"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Parasite"
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Avengers: Endgame",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "1917"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Lion King"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Spider-Man: Far From Home"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Star Wars: The Rise of Skywalker"
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Star Wars: The Rise of Skywalker",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Joker"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "1917"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Once Upon a Time... in Hollywood"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "IT"
                     }
                 ]
             }
