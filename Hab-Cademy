@@ -10554,24 +10554,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Florence Pugh (Little Women)",
+                        "nameOrTitle": "Florence Pugh",
+                        "filmTitle": "Little Women",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Scarlett Johansson (Jojo Rabbit)"
+                        "nameOrTitle": "Scarlett Johansson",
+                        "filmTitle": "Jojo Rabbit"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Laura Dern (Marriage Story)"
+                        "nameOrTitle": "Laura Dern",
+                        "filmTitle": "Marriage Story"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Rebecca Ferguson (Doctor Sleep)"
+                        "nameOrTitle": "Rebecca Ferguson",
+                        "filmTitle": "Doctor Sleep"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Ana de Armas (Knives Out)"
+                        "nameOrTitle": "Ana de Armas",
+                        "filmTitle": "Knives Out"
                     }
                 ]
             },
