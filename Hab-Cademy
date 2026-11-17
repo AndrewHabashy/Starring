@@ -10461,24 +10461,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Leonardo DiCaprio (Once Upon a Time...in Hollywood)",
+                        "nameOrTitle": "Leonardo DiCaprio",
+                        "filmTitle": "Once Upon A Time…In Hollywood",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Song Kang-ho (Parasite)"
+                        "nameOrTitle": "Song Kang-ho",
+                        "filmTitle": "Parasite"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Riz Ahmed (Sound of Metal)"
+                        "nameOrTitle": "Riz Ahmed",
+                        "filmTitle": "Sound of Metal"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Adam Driver (Marriage Story)"
+                        "nameOrTitle": "Adam Driver",
+                        "filmTitle": "Marriage Story"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Adam Sandler (Uncut Gems)"
+                        "nameOrTitle": "Adam Sandler",
+                        "filmTitle": "Uncut Gems"
                     }
                 ]
             },
@@ -10487,24 +10492,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Scarlett Johansson (Marriage Story)",
+                        "nameOrTitle": "Scarlett Johansson",
+                        "filmTitle": "Marriage Story",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Florence Pugh (Midsommar)"
+                        "nameOrTitle": "Florence Pugh",
+                        "filmTitle": "Midsommar"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Saoirse Ronan (Little Women)"
+                        "nameOrTitle": "Saoirse Ronan",
+                        "filmTitle": "Little Women"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Ana de Armas (Knives Out)"
+                        "nameOrTitle": "Ana de Armas",
+                        "filmTitle": "Knives Out"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Beanie Feldstein (Booksmart)"
+                        "nameOrTitle": "Beanie Feldstein",
+                        "filmTitle": "Booksmart"
                     }
                 ]
             },
@@ -10513,24 +10523,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Brad Pitt (Once Upon A Time… In Hollywood)",
+                        "nameOrTitle": "Brad Pitt",
+                        "filmTitle": "Once Upon A Time…In Hollywood",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Chris Evans (Knives Out)"
+                        "nameOrTitle": "Chris Evans",
+                        "filmTitle": "Knives Out"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Willem Dafoe (The Lighthouse)"
+                        "nameOrTitle": "Willem Dafoe",
+                        "filmTitle": "The Lighthouse"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Al Pacino (The Irishman)"
+                        "nameOrTitle": "Al Pacino",
+                        "filmTitle": "The Irishman"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Joe Pesci (The Irishman)"
+                        "nameOrTitle": "Joe Pesci",
+                        "filmTitle": "The Irishman"
                     }
                 ]
             },
@@ -10653,7 +10668,7 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Once Upon A Time… In Hollywood",
+                        "nameOrTitle": "Once Upon A Time…In Hollywood",
                         "isWinner": true
                     },
                     {
@@ -10671,6 +10686,28 @@
                     {
                         "slotIndex": 4,
                         "nameOrTitle": "Parasite"
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Once Upon A Time…In Hollywood",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             }
