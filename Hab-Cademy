@@ -10943,7 +10943,7 @@
                     },
                     {
                         "slotIndex": 8,
-                        "nameOrTitle": "Bull Durham"
+                        "nameOrTitle": "My Neighbor Totoro"
                     },
                     {
                         "slotIndex": 9,
@@ -10971,10 +10971,14 @@
                         "filmTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Harvey Keitel",
+                        "filmTitle": "The Last Temptation of Christ"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Michael Keaton",
+                        "filmTitle": "Beetlejuice"
                     }
                 ]
             },
@@ -10991,7 +10995,8 @@
                         "nameOrTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beetlejuice"
                     },
                     {
                         "slotIndex": 3
@@ -11007,8 +11012,7 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "Kevin Costner",
-                        "filmTitle": "Bull Durham",
-                        "isWinner": true
+                        "filmTitle": "Bull Durham"
                     },
                     {
                         "slotIndex": 1,
@@ -11016,10 +11020,14 @@
                         "filmTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Willem Dafoe",
+                        "filmTitle": "The Last Temptation of Christ",
+                        "isWinner": true
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "filmTitle": ""
                     },
                     {
                         "slotIndex": 4
@@ -11035,7 +11043,10 @@
                         "filmTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Geena Davis",
+                        "filmTitle": "Beetlejuice",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 2
@@ -11057,10 +11068,15 @@
                         "filmTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Martin Scorsese",
+                        "filmTitle": "The Last Temptation of Christ",
+                        "isWinner": true
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Tim Burton",
+                        "filmTitle": "Beetlejuice"
                     },
                     {
                         "slotIndex": 3
@@ -11078,10 +11094,12 @@
                         "nameOrTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Last Temptation of Christ"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beetlejuice"
                     },
                     {
                         "slotIndex": 3
@@ -11099,10 +11117,12 @@
                         "nameOrTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Last Temptation of Christ"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beetlejuice"
                     },
                     {
                         "slotIndex": 3
@@ -11120,10 +11140,12 @@
                         "nameOrTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Last Temptation of Christ"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beetlejuice"
                     },
                     {
                         "slotIndex": 3
@@ -11141,10 +11163,12 @@
                         "nameOrTitle": "Coming to America"
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Last Temptation of Christ"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beetlejuice"
                     },
                     {
                         "slotIndex": 3
@@ -11163,7 +11187,187 @@
                         "isWinner": true
                     },
                     {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Last Temptation of Christ"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Beetlejuice"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Last Temptation of Christ",
+                        "isWinner": true
+                    },
+                    {
                         "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Last Temptation of Christ"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Beetlejuice"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Last Temptation of Christ"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Beetlejuice"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Last Temptation of Christ"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Beetlejuice"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "My Neighbor Totoro",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "My Neighbor Totoro",
+                        "filmTitle": "Japan",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Supporting Actress": {
+                "categoryName": "Best Supporting Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Winona Ryder",
+                        "filmTitle": "Beetlejuice"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Catherine O'Hara",
+                        "filmTitle": "Beetlejuice"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Beetlejuice"
                     },
                     {
                         "slotIndex": 2
