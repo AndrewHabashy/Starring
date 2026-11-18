@@ -10637,7 +10637,7 @@
                     },
                     {
                         "slotIndex": 7,
-                        "nameOrTitle": "Crimes and Misdemeanors"
+                        "nameOrTitle": "Cinema Paradiso"
                     },
                     {
                         "slotIndex": 8,
@@ -10654,24 +10654,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Billy Crystal (When Harry Met Sally)",
+                        "nameOrTitle": "Billy Crystal",
+                        "filmTitle": "When Harry Met Sally",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Robin Williams (Dead Poets Society)"
+                        "nameOrTitle": "Robin Williams",
+                        "filmTitle": "Dead Poets Society"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Steve Martin (Parenthood)"
+                        "nameOrTitle": "Steve Martin",
+                        "filmTitle": "Parenthood"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Tom Cruise (Born on the Fourth of July)"
+                        "nameOrTitle": "Tom Cruise",
+                        "filmTitle": "Born on the Fourth of July)"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Kenneth Branagh (Henry V)"
+                        "nameOrTitle": "Philippe Noiret",
+                        "filmTitle": "Cinema Paradiso"
                     }
                 ]
             },
@@ -10682,6 +10687,28 @@
                         "slotIndex": 0,
                         "nameOrTitle": "Ghostbusters II",
                         "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Cinema Paradiso",
+                        "filmTitle": "Italy"
                     },
                     {
                         "slotIndex": 1
@@ -10923,7 +10950,7 @@
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Cinema Paradiso"
+                        "nameOrTitle": "Bull Durham"
                     },
                     {
                         "slotIndex": 4,
@@ -10967,13 +10994,13 @@
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "James Earl Jones",
-                        "filmTitle": "Coming to America"
+                        "nameOrTitle": "Tom Cruise",
+                        "filmTitle": "Rain Man"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Harvey Keitel",
-                        "filmTitle": "The Last Temptation of Christ"
+                        "nameOrTitle": "Alan Rickman",
+                        "filmTitle": "Die Hard"
                     },
                     {
                         "slotIndex": 4,
@@ -10987,8 +11014,7 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Running on Empty",
-                        "isWinner": true
+                        "nameOrTitle": "Running on Empty"
                     },
                     {
                         "slotIndex": 1,
@@ -10999,7 +11025,9 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Rain Man",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 4
@@ -11027,10 +11055,13 @@
                     },
                     {
                         "slotIndex": 3,
-                        "filmTitle": ""
+                        "nameOrTitle": "Bruce Willis",
+                        "filmTitle": "Die Hard"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Dustin Hoffman",
+                        "filmTitle": "Rain Man"
                     }
                 ]
             },
@@ -11079,10 +11110,14 @@
                         "filmTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "John McTiernan",
+                        "filmTitle": "Die Hard"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Barry Levinson",
+                        "filmTitle": "Rain Man"
                     }
                 ]
             },
@@ -11102,10 +11137,12 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Rain Man"
                     }
                 ]
             },
@@ -11148,10 +11185,12 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Rain Man"
                     }
                 ]
             },
@@ -11195,10 +11234,12 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Rain Man"
                     }
                 ]
             },
@@ -11211,7 +11252,8 @@
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
                         "slotIndex": 2
@@ -11236,10 +11278,12 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Rain Man"
                     },
                     {
                         "slotIndex": 4
@@ -11258,7 +11302,8 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
                         "slotIndex": 3
@@ -11280,10 +11325,12 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Rain Man"
                     },
                     {
                         "slotIndex": 4
@@ -11370,7 +11417,8 @@
                         "nameOrTitle": "Beetlejuice"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Die Hard"
                     },
                     {
                         "slotIndex": 3
