@@ -10956,8 +10956,25 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "River Phoenix (Running on Empty)",
+                        "nameOrTitle": "River Phoenix",
+                        "filmTitle": "Running on Empty"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Arsenio Hall",
+                        "filmTitle": "Coming to America",
                         "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "James Earl Jones",
+                        "filmTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             },
@@ -10968,6 +10985,19 @@
                         "slotIndex": 0,
                         "nameOrTitle": "Running on Empty",
                         "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             },
@@ -10978,6 +11008,158 @@
                         "slotIndex": 0,
                         "nameOrTitle": "Kevin Costner",
                         "filmTitle": "Bull Durham",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Eddie Murphy",
+                        "filmTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Actress": {
+                "categoryName": "Best Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Shari Headley",
+                        "filmTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "John Landis",
+                        "filmTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Coming to America"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Coming to America",
                         "isWinner": true
                     },
                     {
