@@ -1,648 +1,4 @@
 {
-    "2012": {
-        "year": 2012,
-        "categories": {
-            "Best Picture": {
-                "categoryName": "Best Picture",
-                "maxSlots": 10,
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Django Unchained",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "The Avengers"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "The Hunger Games"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "21 Jump Street"
-                    },
-                    {
-                        "slotIndex": 5,
-                        "nameOrTitle": "Silver Linings Playbook"
-                    },
-                    {
-                        "slotIndex": 6,
-                        "nameOrTitle": "Frances Ha"
-                    },
-                    {
-                        "slotIndex": 7,
-                        "nameOrTitle": "Skyfall"
-                    },
-                    {
-                        "slotIndex": 8,
-                        "nameOrTitle": "Argo"
-                    },
-                    {
-                        "slotIndex": 9,
-                        "nameOrTitle": "Zero Dark Thirty"
-                    }
-                ]
-            },
-            "Best Actor": {
-                "categoryName": "Best Actor",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Daniel Day-Lewis (Lincoln)",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Ben Affleck (Argo)"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Bradley Cooper (Silver Linings Playbook)"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Jamie Foxx (Django Unchained)"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Joaquin Phoenix (The Master)"
-                    }
-                ]
-            },
-            "Best Actress": {
-                "categoryName": "Best Actress",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Jennifer Lawrence (Silver Linings Playbook)",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Jessica Chastain (Zero Dark Thirty)"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Greta Gerwig (Frances Ha)"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Keira Knightley (Anna Karenina)"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Jennifer Lawrence (The Hunger Games)"
-                    }
-                ]
-            },
-            "Best Supporting Actress": {
-                "categoryName": "Best Supporting Actress",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Anne Hathaway",
-                        "filmTitle": "Les Misérables",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Sally Field",
-                        "filmTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Amy Adams",
-                        "filmTitle": "The Master"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Amanda Seyfried",
-                        "filmTitle": "Les Misérables"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Anne Hathaway",
-                        "filmTitle": "The Dark Knight Rises"
-                    }
-                ]
-            },
-            "Best Supporting Actor": {
-                "categoryName": "Best Supporting Actor",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Philip Seymour Hoffman",
-                        "filmTitle": "The Master",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Christoph Waltz",
-                        "filmTitle": "Django Unchained"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Alan Arkin",
-                        "filmTitle": "Argo"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Robert De Niro",
-                        "filmTitle": "Silver Linings Playbook"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Tommy Lee Jones",
-                        "filmTitle": "Lincoln"
-                    }
-                ]
-            },
-            "Best Director": {
-                "categoryName": "Best Director",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Quentin Tarantino",
-                        "filmTitle": "Django Unchained",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Steven Spielberg",
-                        "filmTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Joss Whedon",
-                        "filmTitle": "The Avengers"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Ben Affleck",
-                        "filmTitle": "Argo"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Paul Thomas Anderson",
-                        "filmTitle": "The Master"
-                    }
-                ]
-            },
-            "Best Original Screenplay": {
-                "categoryName": "Best Original Screenplay",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Django Unchained",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Flight"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Zero Dark Thirty"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Moonrise Kingdom"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Ted"
-                    }
-                ]
-            },
-            "Best Adapted Screenplay": {
-                "categoryName": "Best Adapted Screenplay",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Argo",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Silver Linings Playbook"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "The Avengers"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Skyfall"
-                    }
-                ]
-            },
-            "Best Animated Feature": {
-                "categoryName": "Best Animated Feature",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "It's Such A Beautiful Day",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Evangelion: 3.0 You Can (Not) Redo"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Hotel Transylvania"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Brave"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Wolf Children"
-                    }
-                ]
-            },
-            "Best Live Action Short": {
-                "categoryName": "Best Live Action Short",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Marvel One-Shot: Item 47",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "When We Are Chased by Bad Luck"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Malaria"
-                    },
-                    {
-                        "slotIndex": 3
-                    },
-                    {
-                        "slotIndex": 4
-                    }
-                ]
-            },
-            "Best International Feature": {
-                "categoryName": "Best International Feature",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Armour",
-                        "filmTitle": "Austria",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Ek Tha Tiger",
-                        "filmTitle": "India"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Wolf Children",
-                        "filmTitle": "Japan"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Like Someone in Love",
-                        "filmTitle": "Japan"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
-                        "filmTitle": "Japan"
-                    }
-                ]
-            },
-            "Best Documentary Short": {
-                "categoryName": "Best Documentary Short",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Last Reef: Cities Beneath the Sea",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1
-                    },
-                    {
-                        "slotIndex": 2
-                    },
-                    {
-                        "slotIndex": 3
-                    },
-                    {
-                        "slotIndex": 4
-                    }
-                ]
-            },
-            "Best Documentary Feature": {
-                "categoryName": "Best Documentary Feature",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Five Broken Cameras",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1
-                    },
-                    {
-                        "slotIndex": 2
-                    },
-                    {
-                        "slotIndex": 3
-                    },
-                    {
-                        "slotIndex": 4
-                    }
-                ]
-            },
-            "Best Original Score": {
-                "categoryName": "Best Original Score",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Avengers",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Anna Karenina"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Argo"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Skyfall"
-                    }
-                ]
-            },
-            "Best Original Song": {
-                "categoryName": "Best Original Song",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Skyfall",
-                        "filmTitle": "Skyfall",
-                        "artistName": "Adele",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Everybody Needs a Best Friend",
-                        "filmTitle": "Ted",
-                        "artistName": "Norah Jones"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Don't Run Away",
-                        "filmTitle": "Let It Shine",
-                        "artistName": "Tyler James Williams"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Let It Shine",
-                        "filmTitle": "Let It Shine",
-                        "artistName": "Coco Jones"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "When Can I See You Again?",
-                        "filmTitle": "Wreck-It Ralph",
-                        "artistName": "Owl City"
-                    }
-                ]
-            },
-            "Best Sound": {
-                "categoryName": "Best Sound",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Skyfall",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Zero Dark Thirty"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Les Misérables"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Argo"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "The Avengers"
-                    }
-                ]
-            },
-            "Best Production Design": {
-                "categoryName": "Best Production Design",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "Lincoln",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "The Avengers"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "The Hobbit: An Unexpected Journey"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Les Misérables"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Anna Karenina"
-                    }
-                ]
-            },
-            "Best Cinematography": {
-                "categoryName": "Best Cinematography",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Avengers",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Django Unchained"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Skyfall"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "The Hunger Games"
-                    }
-                ]
-            },
-            "Best Costume Design": {
-                "categoryName": "Best Costume Design",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Avengers",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Les Misérables"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Anna Karenina"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "The Amazing Spider-Man"
-                    }
-                ]
-            },
-            "Best Film Editing": {
-                "categoryName": "Best Film Editing",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Avengers",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Argo"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Silver Linings Playbook"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "The Master"
-                    }
-                ]
-            },
-            "Best Visual Effects": {
-                "categoryName": "Best Visual Effects",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Avengers",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "The Hobbit: An Unexpected Journey"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Prometheus"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "The Amazing Spider-Man"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Ted"
-                    }
-                ]
-            },
-            "Best Makeup and Hairstyling": {
-                "categoryName": "Best Makeup and Hairstyling",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Hobbit: An Unexpected Journey",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Les Misérables"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "Anna Karenina"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "Men in Black 3"
-                    }
-                ]
-            },
-            "Best Casting": {
-                "categoryName": "Best Casting",
-                "nominees": [
-                    {
-                        "slotIndex": 0,
-                        "nameOrTitle": "The Hunger Games",
-                        "isWinner": true
-                    },
-                    {
-                        "slotIndex": 1,
-                        "nameOrTitle": "Django Unchained"
-                    },
-                    {
-                        "slotIndex": 2,
-                        "nameOrTitle": "Lincoln"
-                    },
-                    {
-                        "slotIndex": 3,
-                        "nameOrTitle": "21 Jump Street"
-                    },
-                    {
-                        "slotIndex": 4,
-                        "nameOrTitle": "The Amazing Spider-Man"
-                    }
-                ]
-            }
-        }
-    },
     "1983": {
         "year": 1983,
         "categories": {
@@ -1485,6 +841,49 @@
                         "slotIndex": 4
                     }
                 ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Kagemusha",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Kagemusha"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
             }
         }
     },
@@ -1710,6 +1109,1227 @@
                     },
                     {
                         "slotIndex": 4
+                    }
+                ]
+            }
+        }
+    },
+    "1980": {
+        "year": 1980,
+        "categories": {
+            "Best Picture": {
+                "categoryName": "Best Picture",
+                "maxSlots": 10,
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Airplane!"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Elephant Man"
+                    },
+                    {
+                        "slotIndex": 5,
+                        "nameOrTitle": "Ordinary People"
+                    },
+                    {
+                        "slotIndex": 6,
+                        "nameOrTitle": "The Gods Must Be Crazy"
+                    },
+                    {
+                        "slotIndex": 7,
+                        "nameOrTitle": "The Young Master"
+                    },
+                    {
+                        "slotIndex": 8,
+                        "nameOrTitle": "The Blues Brothers"
+                    },
+                    {
+                        "slotIndex": 9,
+                        "nameOrTitle": "Used Cars"
+                    }
+                ]
+            },
+            "Best Actor": {
+                "categoryName": "Best Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Al Pacino",
+                        "filmTitle": "Cruising"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Donald Sutherland",
+                        "filmTitle": "Ordinary People"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Jack Nicholson",
+                        "filmTitle": "The Shining",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Robert De Niro",
+                        "filmTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "John Hurt",
+                        "filmTitle": "The Elephant Man"
+                    }
+                ]
+            },
+            "Best Supporting Actor": {
+                "categoryName": "Best Supporting Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Judd Hirsch",
+                        "filmTitle": "Ordinary People"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Harrison Ford",
+                        "filmTitle": "The Empire Strikes Back"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Leslie Nielsen",
+                        "filmTitle": "Airplane!",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Joe Pesci",
+                        "filmTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Timothy Hutton",
+                        "filmTitle": "Ordinary People"
+                    }
+                ]
+            },
+            "Best Supporting Actress": {
+                "categoryName": "Best Supporting Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Carrie Fisher",
+                        "filmTitle": "The Empire Strikes Back"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Karen Allen",
+                        "filmTitle": "Cruising"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Mary Steenburgen",
+                        "filmTitle": "Melvin and Howard",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Cathy Moriarty",
+                        "filmTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Margot Kidder",
+                        "filmTitle": "Superman II"
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Irvin Kershner",
+                        "filmTitle": "The Empire Strikes Back"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Stanley Kubrick",
+                        "filmTitle": "The Shining",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Martin Scorsese",
+                        "filmTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "David Lynch",
+                        "filmTitle": "The Elephant Man"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Robert Redford",
+                        "filmTitle": "Ordinary People"
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Cruising"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ordinary People",
+                        "isWinner": true
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Elephant Man"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ordinary People"
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Shining",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Dressed to Kill"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ordinary People"
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Blues Brothers"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ordinary People"
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Cruising"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ordinary People"
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Elephant Man"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Gods Must Be Crazy"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Blues Brothers"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Cruising"
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Airplane!"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Ordinary People"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Raging Bull"
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Superman II"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Airplane!"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Friday the 13th"
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Elephant Man",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Gods Must Be Crazy"
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Empire Strikes Back"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Airplane!"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Raging Bull"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ordinary People",
+                        "isWinner": true
+                    }
+                ]
+            },
+            "Best Actress": {
+                "categoryName": "Best Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Julie Hagerty",
+                        "filmTitle": "Airplane!"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Shelley Duvall",
+                        "filmTitle": "The Shining"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Dolly Parton",
+                        "filmTitle": "Nine to Five"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Mary Tyler Moore",
+                        "filmTitle": "Ordinary People",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Lily Tomlin",
+                        "filmTitle": "Nine to Five"
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Airplane!",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Gods Must Be Crazy"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Young Master"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Used Cars"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Caddyshack"
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Gods Must Be Crazy",
+                        "filmTitle": "South Africa",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Young Master",
+                        "filmTitle": "Hong Kong"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Bon Voyage, Charlie Brown (and Don't Come Back!)",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Return of the King"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Song": {
+                "categoryName": "Best Original Song",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Nine to Five",
+                        "filmTitle": "Nine to Five",
+                        "artistName": "Dolly Parton",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Call Me",
+                        "filmTitle": "American Gigolo",
+                        "artistName": "Blondie"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "I'm Alright",
+                        "filmTitle": "Caddyshack",
+                        "artistName": "Kenny Loggins"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "America",
+                        "filmTitle": "The Jazz Singer",
+                        "artistName": "Neil Diamond"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Love on the Rocks",
+                        "filmTitle": "The Jazz Singer",
+                        "artistName": "Neil Diamond"
+                    }
+                ]
+            }
+        }
+    },
+    "2012": {
+        "year": 2012,
+        "categories": {
+            "Best Picture": {
+                "categoryName": "Best Picture",
+                "maxSlots": 10,
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Django Unchained",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Avengers"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Hunger Games"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "21 Jump Street"
+                    },
+                    {
+                        "slotIndex": 5,
+                        "nameOrTitle": "Silver Linings Playbook"
+                    },
+                    {
+                        "slotIndex": 6,
+                        "nameOrTitle": "Frances Ha"
+                    },
+                    {
+                        "slotIndex": 7,
+                        "nameOrTitle": "Skyfall"
+                    },
+                    {
+                        "slotIndex": 8,
+                        "nameOrTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 9,
+                        "nameOrTitle": "Zero Dark Thirty"
+                    }
+                ]
+            },
+            "Best Actor": {
+                "categoryName": "Best Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Daniel Day-Lewis (Lincoln)",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Ben Affleck (Argo)"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Bradley Cooper (Silver Linings Playbook)"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Jamie Foxx (Django Unchained)"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Joaquin Phoenix (The Master)"
+                    }
+                ]
+            },
+            "Best Actress": {
+                "categoryName": "Best Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Jennifer Lawrence (Silver Linings Playbook)",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Jessica Chastain (Zero Dark Thirty)"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Greta Gerwig (Frances Ha)"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Keira Knightley (Anna Karenina)"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Jennifer Lawrence (The Hunger Games)"
+                    }
+                ]
+            },
+            "Best Supporting Actress": {
+                "categoryName": "Best Supporting Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Anne Hathaway",
+                        "filmTitle": "Les Misérables",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Sally Field",
+                        "filmTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Amy Adams",
+                        "filmTitle": "The Master"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Amanda Seyfried",
+                        "filmTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Anne Hathaway",
+                        "filmTitle": "The Dark Knight Rises"
+                    }
+                ]
+            },
+            "Best Supporting Actor": {
+                "categoryName": "Best Supporting Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Philip Seymour Hoffman",
+                        "filmTitle": "The Master",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Christoph Waltz",
+                        "filmTitle": "Django Unchained"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Alan Arkin",
+                        "filmTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Robert De Niro",
+                        "filmTitle": "Silver Linings Playbook"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Tommy Lee Jones",
+                        "filmTitle": "Lincoln"
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Quentin Tarantino",
+                        "filmTitle": "Django Unchained",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Steven Spielberg",
+                        "filmTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Joss Whedon",
+                        "filmTitle": "The Avengers"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Ben Affleck",
+                        "filmTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Paul Thomas Anderson",
+                        "filmTitle": "The Master"
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Django Unchained",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Flight"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Zero Dark Thirty"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Moonrise Kingdom"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ted"
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Argo",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Silver Linings Playbook"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Avengers"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Skyfall"
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "It's Such A Beautiful Day",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Evangelion: 3.0 You Can (Not) Redo"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Hotel Transylvania"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Brave"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Wolf Children"
+                    }
+                ]
+            },
+            "Best Live Action Short": {
+                "categoryName": "Best Live Action Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Marvel One-Shot: Item 47",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "When We Are Chased by Bad Luck"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Malaria"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Armour",
+                        "filmTitle": "Austria",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Ek Tha Tiger",
+                        "filmTitle": "India"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Wolf Children",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Like Someone in Love",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
+                        "filmTitle": "Japan"
+                    }
+                ]
+            },
+            "Best Documentary Short": {
+                "categoryName": "Best Documentary Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Last Reef: Cities Beneath the Sea",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Documentary Feature": {
+                "categoryName": "Best Documentary Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Five Broken Cameras",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Anna Karenina"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Skyfall"
+                    }
+                ]
+            },
+            "Best Original Song": {
+                "categoryName": "Best Original Song",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Skyfall",
+                        "filmTitle": "Skyfall",
+                        "artistName": "Adele",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Everybody Needs a Best Friend",
+                        "filmTitle": "Ted",
+                        "artistName": "Norah Jones"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Don't Run Away",
+                        "filmTitle": "Let It Shine",
+                        "artistName": "Tyler James Williams"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Let It Shine",
+                        "filmTitle": "Let It Shine",
+                        "artistName": "Coco Jones"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "When Can I See You Again?",
+                        "filmTitle": "Wreck-It Ralph",
+                        "artistName": "Owl City"
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Skyfall",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Zero Dark Thirty"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Avengers"
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Lincoln",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Avengers"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Hobbit: An Unexpected Journey"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Anna Karenina"
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Django Unchained"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Skyfall"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Hunger Games"
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Anna Karenina"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Amazing Spider-Man"
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Argo"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Silver Linings Playbook"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Master"
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Avengers",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Hobbit: An Unexpected Journey"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Prometheus"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Amazing Spider-Man"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ted"
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Hobbit: An Unexpected Journey",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Les Misérables"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Anna Karenina"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Men in Black 3"
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Hunger Games",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Django Unchained"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Lincoln"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "21 Jump Street"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Amazing Spider-Man"
                     }
                 ]
             }
