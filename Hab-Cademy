@@ -173,7 +173,7 @@
                     },
                     {
                         "slotIndex": 8,
-                        "nameOrTitle": "Ex Machina"
+                        "nameOrTitle": "Avengers: Age of Ultron"
                     },
                     {
                         "slotIndex": 9,
@@ -186,24 +186,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Matt Damon (The Martian)",
+                        "nameOrTitle": "Matt Damon",
+                        "filmTitle": "The Martian",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Tom Hardy (Mad Max: Fury Road)"
+                        "nameOrTitle": "Tom Hardy",
+                        "filmTitle": "Mad Max: Fury Road"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Michael B. Jordan (Creed)"
+                        "nameOrTitle": "Michael B. Jordan",
+                        "filmTitle": "Creed"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Colin Farrell (The Lobster)"
+                        "nameOrTitle": "Colin Farrell",
+                        "filmTitle": "The Lobster"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Leonardo DiCaprio (The Revenant)"
+                        "nameOrTitle": "Leonardo DiCaprio",
+                        "filmTitle": "The Revenant"
                     }
                 ]
             },
@@ -212,24 +217,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Brie Larson (Room)",
+                        "nameOrTitle": "Brie Larson",
+                        "filmTitle": "Room",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Charlize Theron (Mad Max: Fury Road)"
+                        "nameOrTitle": "Charlize Theron",
+                        "filmTitle": "Mad Max: Fury Road"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Emily Blunt (Sicario)"
+                        "nameOrTitle": "Emily Blunt",
+                        "filmTitle": "Sicario"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Cate Blanchett (Carol)"
+                        "nameOrTitle": "Cate Blanchett",
+                        "filmTitle": "Carol"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Jennifer Lawrence (Joy)"
+                        "nameOrTitle": "Jennifer Lawrence",
+                        "filmTitle": "Joy"
                     }
                 ]
             },
@@ -238,24 +248,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Mark Rylance (Bridge of Spies)",
+                        "nameOrTitle": "Mark Rylance",
+                        "filmTitle": "Bridge of Spies",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Joel Edgerton (The Gift)"
+                        "nameOrTitle": "Joel Edgerton",
+                        "filmTitle": "The Gift"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Sylvester Stallone (Creed)"
+                        "nameOrTitle": "Sylvester Stallone",
+                        "filmTitle": "Creed"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Mark Ruffalo (Spotlight)"
+                        "nameOrTitle": "Mark Ruffalo",
+                        "filmTitle": "Spotlight"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Christian Bale (The Big Short)"
+                        "nameOrTitle": "Christian Bale",
+                        "filmTitle": "The Big Short"
                     }
                 ]
             },
@@ -287,6 +302,239 @@
                         "slotIndex": 4,
                         "nameOrTitle": "Rooney Mara",
                         "filmTitle": "Carol"
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Inside Out",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Peanuts Movie"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Scooby-Doo! and Kiss: Rock and Roll Mystery"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Scooby-Doo! Moon Monster Madness"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Hotel Transylvania 2"
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "George Miller",
+                        "filmTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Tom McCarthy",
+                        "filmTitle": "Spotlight"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Ridley Scott",
+                        "filmTitle": "The Martian"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Ryan Coogler",
+                        "filmTitle": "Creed"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Christopher McQuarrie",
+                        "filmTitle": "Mission Impossible - Rogue Nation"
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Spotlight",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Ex Machina"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Bridge of Spies"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Inside Out"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Straight Outta Compton"
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Big Short",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Carol"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Martian"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Room"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Creed"
+                    }
+                ]
+            },
+            "Best Animated Short": {
+                "categoryName": "Best Animated Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Dji. Death Sails",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Live Action Short": {
+                "categoryName": "Best Live Action Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Audition",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Desire"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Awesome Runaway!!"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Aberration"
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Documentary Short": {
+                "categoryName": "Best Documentary Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Body Team 12",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mustang",
+                        "filmTitle": "Turkey"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Embrace of the Serpent",
+                        "filmTitle": "Colombia",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Happy Hour",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Second Mother",
+                        "filmTitle": "Brazil"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Retribution",
+                        "filmTitle": "Spain"
+                    }
+                ]
+            },
+            "Best Documentary Feature": {
+                "categoryName": "Best Documentary Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Four Falls of Buffalo",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Kareem: Minority of One"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Kobe Bryant's Muse"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             }
@@ -12646,19 +12894,26 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "The Salesman",
+                        "filmTitle": "Iran",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "A Man Called Ove"
+                        "nameOrTitle": "A Man Called Ove",
+                        "filmTitle": "Sweden"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Tanna"
+                        "nameOrTitle": "Tanna",
+                        "filmTitle": "Australia"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "A Silent Voice: The Movie"
+                        "nameOrTitle": "A Silent Voice: The Movie",
+                        "filmTitle": "Japan"
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             },
