@@ -8274,24 +8274,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Antonio Banderas (Tony)",
+                        "nameOrTitle": "Antonio Banderas",
+                        "filmTitle": "Tony",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Edward Norton (The Invite)"
+                        "nameOrTitle": "Edward Norton",
+                        "filmTitle": "The Invite"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Jay McCarroll (Nirvanna the Band the Show the Movie)"
+                        "nameOrTitle": "Jay McCarroll",
+                        "filmTitle": "Nirvanna the Band the Show the Movie"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "John Leguizamo (The Odyssey)"
+                        "nameOrTitle": "John Leguizamo",
+                        "filmTitle": "The Odyssey"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Himesh Patel (The Odyssey)"
+                        "nameOrTitle": "Jesse Plemons",
+                        "filmTitle": "The Hunger Games: Sunrise on the Reaping"
                     }
                 ]
             },
@@ -8300,24 +8305,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Amanda Seyfried (You Can See Everything)",
+                        "nameOrTitle": "Amanda Seyfried",
+                        "filmTitle": "You Can See Everything",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Penelope Cruz (The Invite)"
+                        "nameOrTitle": "Penelope Cruz",
+                        "filmTitle": "The Invite"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Anne Hathaway (The Odyssey)"
+                        "nameOrTitle": "Anne Hathaway",
+                        "filmTitle": "The Odyssey"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Kerry Condon (Pressure)"
+                        "nameOrTitle": "Kerry Condon",
+                        "filmTitle": "Pressure"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Chloe East (Roomates)"
+                        "nameOrTitle": "Chloe East",
+                        "filmTitle": "Roomates"
                     }
                 ]
             },
@@ -8326,24 +8336,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Christopher Nolan (The Odyssey)",
+                        "nameOrTitle": "Christopher Nolan",
+                        "filmTitle": "The Odyssey",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Olivia Wilde (The Invite)"
+                        "nameOrTitle": "Olivia Wilde",
+                        "filmTitle": "The Invite"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Kenji Tanigaki (The Furious)"
+                        "nameOrTitle": "Kenji Tanigaki",
+                        "filmTitle": "The Furious"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Phil Lord & Christopher Miller (Project Hail Mary)"
+                        "nameOrTitle": "Phil Lord & Christopher Miller",
+                        "filmTitle": "Project Hail Mary"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Destin Daniel Cretton (Spider-Man: Brand New Day)"
+                        "nameOrTitle": "Destin Daniel Cretton",
+                        "filmTitle": "Spider-Man: Brand New Day"
                     }
                 ]
             },
