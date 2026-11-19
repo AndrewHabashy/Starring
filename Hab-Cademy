@@ -537,6 +537,240 @@
                         "slotIndex": 4
                     }
                 ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Sicario"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Carol"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Star Wars: The Force Awakens"
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Martian"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Star Wars: The Force Awakens"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Mission: Impossible – Rogue Nation"
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Martian"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Star Wars: The Force Awakens"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Mission: Impossible – Rogue Nation"
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Martian"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Mission: Impossible – Rogue Nation"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Star Wars: The Force Awakens"
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Star Wars: The Force Awakens"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Revenant"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Martian"
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Spotlight"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Ex Machina"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Big Short"
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Star Wars: The Force Awakens",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Mad Max: Fury Road"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Furious 7"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Mission: Impossible – Rogue Nation"
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Revenant"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "The Witch"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Hateful Eight"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "The Revenant"
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Mission: Impossible – Rogue Nation"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Mad Max: Fury Road",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Avengers: Age of Ultron"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Martian"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Ex Machina"
+                    }
+                ]
             }
         }
     },
