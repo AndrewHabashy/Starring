@@ -11736,8 +11736,8 @@
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Jim Broadbent",
-                        "filmTitle": "The Duke"
+                        "nameOrTitle": "Delroy Lindo",
+                        "filmTitle": "Da 5 Bloods"
                     }
                 ]
             },
@@ -11778,7 +11778,8 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "Daniel Kaluuya",
-                        "filmTitle": "Judas and the Black Messiah"
+                        "filmTitle": "Judas and the Black Messiah",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1,
@@ -11796,7 +11797,9 @@
                         "filmTitle": "Tenet"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Chadwick Boseman",
+                        "filmTitle": "Da 5 Bloods"
                     }
                 ]
             },
@@ -11815,13 +11818,19 @@
                         "filmTitle": "Minari"
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Helena Bonham Carter",
+                        "filmTitle": "Enola Holmes"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Millicent Simmonds",
+                        "filmTitle": "A Quiet Place Part II"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Amanda Seyfried",
+                        "filmTitle": "Mank"
                     }
                 ]
             },
@@ -11877,7 +11886,8 @@
                         "nameOrTitle": "Nomadland"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Four Good Days"
                     }
                 ]
             },
@@ -11920,13 +11930,16 @@
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Tenet"
+                        "nameOrTitle": "Tenet",
+                        "isWinner": true
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Greenland"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Da 5 Bloods"
                     }
                 ]
             },
@@ -11943,7 +11956,8 @@
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Little Fish"
+                        "nameOrTitle": "Sound of Metal",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 3,
@@ -11964,7 +11978,8 @@
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Palm Springs"
+                        "nameOrTitle": "Palm Springs",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 2,
@@ -11998,7 +12013,7 @@
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Tenet"
+                        "nameOrTitle": "Da 5 Bloods"
                     },
                     {
                         "slotIndex": 4,
@@ -12023,10 +12038,12 @@
                         "nameOrTitle": "Onward"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Happy Halloween, Scooby-Doo!"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Jiang Ziya"
                     }
                 ]
             },
@@ -12035,8 +12052,7 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Soul",
-                        "isWinner": true
+                        "nameOrTitle": "Soul"
                     },
                     {
                         "slotIndex": 1,
@@ -12047,10 +12063,13 @@
                         "nameOrTitle": "Tenet"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Da 5 Bloods"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Sound of Metal",
+                        "isWinner": true
                     }
                 ]
             },
@@ -12071,10 +12090,12 @@
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Da 5 Bloods"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Minari"
                     }
                 ]
             },
@@ -12091,13 +12112,16 @@
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "Greenland"
                     },
                     {
-                        "slotIndex": 3
+                        "slotIndex": 3,
+                        "nameOrTitle": "Sonic the Hedgehog"
                     },
                     {
-                        "slotIndex": 4
+                        "slotIndex": 4,
+                        "nameOrTitle": "Mulan"
                     }
                 ]
             },
@@ -12133,7 +12157,8 @@
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
+                        "slotIndex": 1,
+                        "nameOrTitle": "Night Ride"
                     },
                     {
                         "slotIndex": 2
@@ -12151,7 +12176,60 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Promising Young Woman"
+                        "nameOrTitle": "Promising Young Woman",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Da 5 Bloods"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Enola Holmes"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Mank"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Birds of Prey (and the Fantabulous Emancipation) of One Harley Quinn"
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Da 5 Bloods"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Enola Holmes"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Mulan",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Mank"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)"
+                    }
+                ]
+            },
+            "Best Documentary Feature": {
+                "categoryName": "Best Documentary Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "D. Wade: Life Unexpected",
+                        "isWinner": true
                     },
                     {
                         "slotIndex": 1
@@ -12164,6 +12242,87 @@
                     },
                     {
                         "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Animated Short": {
+                "categoryName": "Best Animated Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Eternity",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "The Fourfold"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Documentary Short": {
+                "categoryName": "Best Documentary Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Beginning of the End",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Song": {
+                "categoryName": "Best Original Song",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Carried Me With You",
+                        "filmTitle": "Onward",
+                        "artistName": "Brandi Carlile"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Boss Bitch",
+                        "filmTitle": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+                        "artistName": "Doja Cat"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Fight For You",
+                        "filmTitle": "Judas and the Black Messiah",
+                        "artistName": "H.E.R."
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "The Plan",
+                        "filmTitle": "Tenet",
+                        "artistName": "Travis Scott"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Loyal Brave True",
+                        "filmTitle": "Mulan",
+                        "artistName": "Christina Aguilera",
+                        "isWinner": true
                     }
                 ]
             }
