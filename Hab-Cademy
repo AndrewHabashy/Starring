@@ -933,24 +933,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Ben Affleck (Gone Girl)",
+                        "nameOrTitle": "Ben Affleck",
+                        "filmTitle": "Gone Girl",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Matthew McConaughey (Interstellar)"
+                        "nameOrTitle": "Matthew McConaughey",
+                        "filmTitle": "Interstellar"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Miles Teller (Whiplash)"
+                        "nameOrTitle": "Miles Teller",
+                        "filmTitle": "Whiplash"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Jake Gyllenhaal (Nightcrawler)"
+                        "nameOrTitle": "Jake Gyllenhaal",
+                        "filmTitle": "Nightcrawler"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Ralph Fiennes (The Grand Budapest Hotel)"
+                        "nameOrTitle": "Ralph Fiennes",
+                        "filmTitle": "The Grand Budapest Hotel"
                     }
                 ]
             },
@@ -959,24 +964,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Rosamund Pike (Gone Girl)",
+                        "nameOrTitle": "Rosamund Pike",
+                        "filmTitle": "Gone Girl",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Anne Dorval (Mommy)"
+                        "nameOrTitle": "Anne Dorval",
+                        "filmTitle": "Mommy"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Naomi Watts (While We’re Young)"
+                        "nameOrTitle": "Naomi Watts",
+                        "filmTitle": "While We're Young"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Scarlett Johansson (Captain America: The Winter Soldier)"
+                        "nameOrTitle": "Scarlett Johansson",
+                        "filmTitle": "Captain America: The Winter Soldier"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Patricia Arquette (Boyhood)"
+                        "nameOrTitle": "Patricia Arquette",
+                        "filmTitle": "Boyhood"
                     }
                 ]
             },
@@ -985,24 +995,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "J.K. Simmons (Whiplash)",
+                        "nameOrTitle": "J.K. Simmons",
+                        "filmTitle": "Whiplash",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Tyler Perry (Gone Girl)"
+                        "nameOrTitle": "James McAvoy",
+                        "filmTitle": "X-Men: Days of Future Past"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Edward Norton (Birdman or (The Unexpected Virtue of Ignorance))"
+                        "nameOrTitle": "Edward Norton",
+                        "filmTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Michael Fassbender (X-Men: Days of Future Past)"
+                        "nameOrTitle": "Michael Fassbender",
+                        "filmTitle": "X-Men: Days of Future Past"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Colin Firth (Kingsman: The Secret Service)"
+                        "nameOrTitle": "Colin Firth",
+                        "filmTitle": "Kingsman: The Secret Service"
                     }
                 ]
             },
