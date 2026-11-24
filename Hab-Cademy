@@ -11715,24 +11715,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Riz Ahmed (Sound of Metal)",
+                        "nameOrTitle": "Riz Ahmed",
+                        "filmTitle": "Sound of Metal",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Gary Oldman (Mank)"
+                        "nameOrTitle": "Gary Oldman",
+                        "filmTitle": "Mank"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Steven Yuen (Minari)"
+                        "nameOrTitle": "Steven Yuen",
+                        "filmTitle": "Minari"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Anthony Hopkins (The Father)"
+                        "nameOrTitle": "Anthony Hopkins",
+                        "filmTitle": "The Father"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Jim Broadbent (The Duke)"
+                        "nameOrTitle": "Jim Broadbent",
+                        "filmTitle": "The Duke"
                     }
                 ]
             },
@@ -11741,24 +11746,424 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Cristin Milioti (Palm Springs)",
+                        "nameOrTitle": "Cristin Milioti",
+                        "filmTitle": "Palm Springs"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Olivia Cooke",
+                        "filmTitle": "Little Fish"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Han Ye-ri",
+                        "filmTitle": "Minari"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Jasna Đuričić",
+                        "filmTitle": "Quo Vadis, Aida?"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Carey Mulligan",
+                        "filmTitle": "Promising Young Woman",
+                        "isWinner": true
+                    }
+                ]
+            },
+            "Best Supporting Actor": {
+                "categoryName": "Best Supporting Actor",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Daniel Kaluuya",
+                        "filmTitle": "Judas and the Black Messiah"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "J.K. Simmons",
+                        "filmTitle": "Palm Springs"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Will Patton",
+                        "filmTitle": "Minari"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Robert Pattison",
+                        "filmTitle": "Tenet"
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Supporting Actress": {
+                "categoryName": "Best Supporting Actress",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Olivia Colman",
+                        "filmTitle": "The Father",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Olivia Cooke (Little Fish)"
+                        "nameOrTitle": "Yuh-Jung Youn",
+                        "filmTitle": "Minari"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Director": {
+                "categoryName": "Best Director",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Florian Zeller",
+                        "filmTitle": "The Father",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Chloé Zhao",
+                        "filmTitle": "Nomadland"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Han Ye-ri (Minari)"
+                        "nameOrTitle": "Emerald Fennell",
+                        "filmTitle": "Promising Young Woman"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Jasna Đuričić (Quo Vadis, Aida?)"
+                        "nameOrTitle": "Lee Isaac Chung",
+                        "filmTitle": "Minari"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Carey Mulligan (Promising Young Woman)"
+                        "nameOrTitle": "Christopher Nolan",
+                        "filmTitle": "Tenet"
+                    }
+                ]
+            },
+            "Best Adapted Screenplay": {
+                "categoryName": "Best Adapted Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Father",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "A Quiet Place Part II"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Little Fish"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Nomadland"
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Father"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Soul",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "A Quiet Place Part II"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Little Fish"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Tenet"
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Father"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "A Quiet Place Part II"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Tenet"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Film Editing": {
+                "categoryName": "Best Film Editing",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Father"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Palm Springs"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Little Fish"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Promising Young Woman"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Nomadland"
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "The Father"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Palm Springs"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Little Fish"
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Tenet"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Promising Young Woman"
+                    }
+                ]
+            },
+            "Best Original Screenplay": {
+                "categoryName": "Best Original Screenplay",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Soul"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Palm Springs"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Minari",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 3,
+                        "nameOrTitle": "Tenet"
+                    },
+                    {
+                        "slotIndex": 4,
+                        "nameOrTitle": "Promising Young Woman"
+                    }
+                ]
+            },
+            "Best Animated Feature": {
+                "categoryName": "Best Animated Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Soul",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Wolfwalkers"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Onward"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Sound": {
+                "categoryName": "Best Sound",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Soul",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "A Quiet Place Part II"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Tenet"
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "A Quiet Place Part II"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Tenet"
+                    },
+                    {
+                        "slotIndex": 2,
+                        "nameOrTitle": "Nomadland",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "A Quiet Place Part II"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Tenet",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best International Feature": {
+                "categoryName": "Best International Feature",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Quo Vadis, Aida?",
+                        "filmTitle": "Bosnia and Herzegovina",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Live Action Short": {
+                "categoryName": "Best Live Action Short",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Please Hold",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Promising Young Woman"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
                     }
                 ]
             }
