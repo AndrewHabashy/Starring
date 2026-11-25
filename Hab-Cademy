@@ -1047,8 +1047,8 @@
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Emily Blunt",
-                        "filmTitle": "Edge of Tomorrow"
+                        "nameOrTitle": "Jennifer Lawrence",
+                        "filmTitle": "X-Men: Days of Future Past"
                     }
                 ]
             },
@@ -1088,14 +1088,16 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "American Sniper",
+                        "nameOrTitle": "American Sniper"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Whiplash",
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
-                    },
-                    {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "X-Men: Days of Future Past"
                     },
                     {
                         "slotIndex": 3
@@ -1110,14 +1112,16 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "American Sniper",
+                        "nameOrTitle": "American Sniper"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Whiplash",
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
-                    },
-                    {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "X-Men: Days of Future Past"
                     },
                     {
                         "slotIndex": 3
@@ -1132,14 +1136,16 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "American Sniper",
+                        "nameOrTitle": "American Sniper"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "Whiplash",
                         "isWinner": true
                     },
                     {
-                        "slotIndex": 1
-                    },
-                    {
-                        "slotIndex": 2
+                        "slotIndex": 2,
+                        "nameOrTitle": "X-Men: Days of Future Past"
                     },
                     {
                         "slotIndex": 3
@@ -1155,6 +1161,161 @@
                     {
                         "slotIndex": 0,
                         "nameOrTitle": "Draft Day",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Original Score": {
+                "categoryName": "Best Original Score",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Whiplash",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "X-Men: Days of Future Past"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Production Design": {
+                "categoryName": "Best Production Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Whiplash"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "X-Men: Days of Future Past"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Cinematography": {
+                "categoryName": "Best Cinematography",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Whiplash"
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "X-Men: Days of Future Past"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Casting": {
+                "categoryName": "Best Casting",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "Whiplash",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1,
+                        "nameOrTitle": "X-Men: Days of Future Past"
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Costume Design": {
+                "categoryName": "Best Costume Design",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "X-Men: Days of Future Past",
+                        "isWinner": true
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Visual Effects": {
+                "categoryName": "Best Visual Effects",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "X-Men: Days of Future Past"
+                    },
+                    {
+                        "slotIndex": 1
+                    },
+                    {
+                        "slotIndex": 2
+                    },
+                    {
+                        "slotIndex": 3
+                    },
+                    {
+                        "slotIndex": 4
+                    }
+                ]
+            },
+            "Best Makeup and Hairstyling": {
+                "categoryName": "Best Makeup and Hairstyling",
+                "nominees": [
+                    {
+                        "slotIndex": 0,
+                        "nameOrTitle": "X-Men: Days of Future Past",
                         "isWinner": true
                     },
                     {
