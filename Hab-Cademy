@@ -1026,24 +1026,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Jessica Chastain (Interstellar)",
+                        "nameOrTitle": "Jessica Chastain",
+                        "filmTitle": "Interstellar",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Keira Knightley (The Imitation Game)"
+                        "nameOrTitle": "Keira Knightley",
+                        "filmTitle": "The Imitation Game"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Emma Stone (Birdman or (The Unexpected Virtue of Ignorance))"
+                        "nameOrTitle": "Emma Stone",
+                        "filmTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Scarlett Johansson (Captain America: The Winter Soldier)"
+                        "nameOrTitle": "Scarlett Johansson",
+                        "filmTitle": "Captain America: The Winter Soldier"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Emily Blunt (Edge of Tomorrow)"
+                        "nameOrTitle": "Emily Blunt",
+                        "filmTitle": "Edge of Tomorrow"
                     }
                 ]
             },
@@ -1052,24 +1057,29 @@
                 "nominees": [
                     {
                         "slotIndex": 0,
-                        "nameOrTitle": "Christopher Nolan (Interstellar)",
+                        "nameOrTitle": "Christopher Nolan",
+                        "filmTitle": "Interstellar",
                         "isWinner": true
                     },
                     {
                         "slotIndex": 1,
-                        "nameOrTitle": "Damien Chazelle (Whiplash)"
+                        "nameOrTitle": "Damien Chazelle",
+                        "filmTitle": "Whiplash"
                     },
                     {
                         "slotIndex": 2,
-                        "nameOrTitle": "Bryan Singer (X-Men: Days of Future Past)"
+                        "nameOrTitle": "Bryan Singer",
+                        "filmTitle": "X-Men: Days of Future Past"
                     },
                     {
                         "slotIndex": 3,
-                        "nameOrTitle": "Richard Linklater (Boyhood)"
+                        "nameOrTitle": "Richard Linklater",
+                        "filmTitle": "Boyhood"
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Wes Anderson (The Grand Budapest Hotel)"
+                        "nameOrTitle": "Wes Anderson",
+                        "filmTitle": "The Grand Budapest Hotel"
                     }
                 ]
             },
@@ -8575,8 +8585,8 @@
                     },
                     {
                         "slotIndex": 4,
-                        "nameOrTitle": "Chloe East",
-                        "filmTitle": "Roomates"
+                        "nameOrTitle": "Scarlett Johansson",
+                        "filmTitle": "Paper Tiger"
                     }
                 ]
             },
